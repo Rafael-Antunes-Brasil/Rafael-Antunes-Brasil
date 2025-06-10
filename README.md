@@ -3,7 +3,7 @@
 
 <div style="display: flex, margin: auto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Antunes-Brasil&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Antunes-Brasil&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Antunes-Brasil&layout=compact&theme=dark&cache_seconds=86400"/>
   <img src="https://www.clipartmax.com/png/full/465-4655448_1000-x-1000-2-draw-a-rubiks-cube.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <!--   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 </div>
