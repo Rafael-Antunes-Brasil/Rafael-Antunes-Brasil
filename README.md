@@ -51,7 +51,7 @@
   <h2>Nuvem:</h2>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
-  <h2>Sitemas operacionais:</h2>
+  <h2>Sistemas operacionais:</h2>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg"/>
