@@ -2,6 +2,10 @@
 #### 🛠️ Tecnologias, ferramentas e stacks com as quais tenho experiência.
 
 ##
+<div style="display: flex, margin: auto">
+  <img src="https://www.clipartmax.com/png/full/465-4655448_1000-x-1000-2-draw-a-rubiks-cube.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</div>
+
   <a href="https://www.linkedin.com/in/rafael-antunes-24721b209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5516992562011&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%1f7a1f?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="rafao.lima97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
